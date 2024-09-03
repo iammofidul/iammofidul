@@ -7,8 +7,7 @@
 🚀 Founder of a dating app called [Flingo](https://play.google.com/store/apps/details?id=com.contactmofidul.fling&hl=en-IN) with 800k users.     
 📈 Currently leading the Flutter team at [STAGE](https://www.stage.in/haryanvi), which has 12 million users.   
 🛠️ Proficient with Flutter, Native Android, Firebase, Dart  
-👀 I’m interested in Mobile development   
-🌱 I’m currently learning DSA   
+👀 I’m interested in Mobile development    
 💞️ I’m looking to collaborate on Flutter-based repositories 
 
 <!---
